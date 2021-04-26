@@ -1,0 +1,671 @@
+ticker,current_mkt_cap,mkt_cap_category,sector_name
+BBCA,"770,469,062,500,000",Big,Financials
+BBRI,"538,929,419,700,000",Big,Financials
+TLKM,"331,858,425,610,000",Big,Communication Services
+BMRI,"291,666,666,656,250",Big,Financials
+UNVR,"240,345,000,000,000",Big,Consumer Staples
+ASII,"211,526,565,156,500",Big,Consumer Discretionary
+TPIA,"191,264,504,788,500",Big,Materials
+HMSP,"155,866,223,046,000",Big,Consumer Staples
+EMTK,"155,441,696,946,820",Big,Communication Services
+ARTO,"152,765,156,250,000",Big,Financials
+CPIN,"122,985,000,000,000",Big,Consumer Staples
+BBNI,"110,959,505,925,100",Big,Financials
+ICBP,"102,041,695,000,000",Big,Consumer Staples
+BRIS,"94,782,092,658,330",Big,Financials
+BRPT,"90,587,166,895,470",Big,Materials
+SMMA,"87,237,006,622,900",Big,Financials
+UNTR,"81,596,706,100,000",Big,Energy
+KLBF,"70,078,307,554,450",Big,Health Care
+GGRM,"69,796,292,200,000",Big,Consumer Staples
+SMGR,"63,318,976,000,000",Big,Materials
+MEGA,"61,455,323,085,275",Big,Financials
+INDF,"58,828,857,550,000",Big,Consumer Staples
+TBIG,"58,001,918,579,200",Big,Communication Services
+MYOR,"57,909,032,287,750",Big,Consumer Staples
+TOWR,"57,391,453,125,000",Big,Communication Services
+ANTM,"55,751,374,162,000",Big,Materials
+MDKA,"54,513,544,939,700",Big,Materials
+INKP,"53,752,407,395,325",Big,Materials
+BANK,"48,979,281,877,500",Upper Mid,Financials
+INTP,"46,475,550,199,875",Upper Mid,Materials
+DNET,"45,672,480,000,000",Upper Mid,Communication Services
+INCO,"42,924,983,270,400",Upper Mid,Materials
+BYAN,"41,666,668,750,000",Upper Mid,Energy
+AMRT,"40,071,144,140,500",Upper Mid,Consumer Staples
+ADRO,"37,743,435,160,000",Upper Mid,Energy
+MIKA,"36,898,045,205,000",Upper Mid,Health Care
+TCPI,"36,500,000,000,000",Upper Mid,Industrials
+ISAT,"35,184,719,412,500",Upper Mid,Communication Services
+TKIM,"31,910,541,592,500",Upper Mid,Materials
+BNII,"31,208,634,245,920",Upper Mid,Financials
+JSMR,"30,120,165,480,000",Upper Mid,Industrials
+PGAS,"28,726,187,212,260",Upper Mid,Utilities
+FREN,"27,808,154,022,240",Upper Mid,Communication Services
+PTBA,"27,534,375,607,500",Upper Mid,Energy
+MAYA,"27,214,448,355,000",Upper Mid,Financials
+DCII,"27,174,703,260,000",Upper Mid,Information Technology
+BNGA,"27,016,477,356,225",Upper Mid,Financials
+BDMN,"26,095,386,162,900",Upper Mid,Financials
+JPFA,"25,915,731,194,210",Upper Mid,Consumer Staples
+MKPI,"25,624,942,850,000",Upper Mid,Real Estate
+ACES,"25,467,750,000,000",Upper Mid,Consumer Discretionary
+SCMA,"24,533,291,559,660",Lower Mid,Communication Services
+PWON,"24,320,599,212,000",Lower Mid,Real Estate
+BSDE,"24,029,500,196,620",Lower Mid,Real Estate
+POLL,"23,875,023,732,000",Lower Mid,Real Estate
+PNBN,"23,846,769,540,000",Lower Mid,Financials
+BTPS,"23,419,248,000,000",Lower Mid,Financials
+SIDO,"23,400,000,000,000",Lower Mid,Consumer Staples
+BTPN,"22,980,030,170,580",Lower Mid,Financials
+EXCL,"21,985,583,290,800",Lower Mid,Communication Services
+CASA,"21,899,453,944,386",Lower Mid,Financials
+CTRA,"21,622,753,457,505",Lower Mid,Real Estate
+AGRO,"21,343,290,230,000",Lower Mid,Financials
+NISP,"19,634,261,391,720",Lower Mid,Financials
+AALI,"19,198,766,121,675",Lower Mid,Consumer Staples
+MLBI,"19,121,025,000,000",Lower Mid,Consumer Staples
+ULTJ,"17,330,292,000,000",Lower Mid,Consumer Staples
+BBTN,"17,049,900,000,000",Lower Mid,Financials
+BBKP,"16,009,893,085,060",Lower Mid,Financials
+SRTG,"15,938,681,125,000",Lower Mid,Financials
+SLIS,"15,150,000,000,000",Lower Mid,Information Technology
+BJBR,"14,758,180,741,500",Lower Mid,Financials
+MEDC,"14,579,014,126,160",Lower Mid,Energy
+MNCN,"14,146,800,447,400",Lower Mid,Communication Services
+LPKR,"13,966,909,618,693",Lower Mid,Real Estate
+KAEF,"13,940,540,000,000",Lower Mid,Health Care
+WSKT,"13,913,299,775,000",Lower Mid,Industrials
+HEAL,"13,609,460,000,000",Lower Mid,Health Care
+SMRA,"13,489,040,870,800",Lower Mid,Real Estate
+SMCB,"13,410,075,000,000",Lower Mid,Materials
+ITMG,"13,304,866,875,000",Lower Mid,Energy
+HRUM,"13,193,665,600,000",Lower Mid,Energy
+MAPI,"12,865,000,000,000",Lower Mid,Consumer Discretionary
+GOOD,"12,655,980,199,065",Lower Mid,Consumer Staples
+WIKA,"12,647,631,434,520",Lower Mid,Industrials
+AKRA,"12,565,995,099,600",Lower Mid,Energy
+BFIN,"12,534,185,761,700",Lower Mid,Financials
+KRAS,"12,381,694,016,000",Lower Mid,Materials
+BJTM,"12,012,398,465,600",Lower Mid,Financials
+BSIM,"11,710,668,119,780",Lower Mid,Financials
+DMAS,"11,567,546,664,000",Lower Mid,Real Estate
+TINS,"11,544,017,853,700",Lower Mid,Materials
+CITA,"11,485,047,625,000",Lower Mid,Materials
+CARE,"11,438,000,000,000",Lower Mid,Health Care
+BINA,"11,195,706,598,263",Lower Mid,Financials
+POWR,"11,180,573,420,000",Lower Mid,Utilities
+SILO,"11,177,138,671,875",Lower Mid,Health Care
+SMAR,"11,057,944,459,100",Lower Mid,Consumer Staples
+LINK,"10,966,038,703,720",Lower Mid,Communication Services
+RMBA,"10,847,538,602,500",Lower Mid,Consumer Staples
+CMNP,"10,753,870,873,680",Lower Mid,Industrials
+IPTV,"10,212,455,497,794",Lower Mid,Communication Services
+LIFE,"10,101,000,000,000",Lower Mid,Financials
+BMAS,"10,042,223,075,880",Lower Mid,Financials
+CENT,"9,978,708,768,000",Small,Communication Services
+ERAA,"9,729,500,000,000",Small,Information Technology
+DSSA,"9,631,904,000,000",Small,Energy
+BBSI,"9,494,749,096,425",Small,Financials
+FAPA,"9,363,882,444,000",Small,Consumer Staples
+STTP,"9,039,000,000,000",Small,Consumer Staples
+LSIP,"8,903,837,474,325",Small,Consumer Staples
+KPIG,"8,868,829,933,040",Small,Real Estate
+IBST,"8,713,336,779,150",Small,Communication Services
+GIAA,"8,594,343,316,328",Small,Industrials
+SSMS,"8,572,500,000,000",Small,Consumer Staples
+DMND,"8,568,864,895,000",Small,Consumer Staples
+APIC,"8,354,082,576,480",Small,Financials
+SMBR,"8,343,328,842,240",Small,Materials
+ADMF,"8,275,000,000,000",Small,Financials
+ASMI,"8,241,710,023,200",Small,Financials
+ROTI,"8,228,030,221,040",Small,Consumer Staples
+SIMP,"8,066,318,100,000",Small,Consumer Staples
+JRPT,"7,975,000,000,000",Small,Real Estate
+ASSA,"7,712,325,000,000",Small,Industrials
+SUPR,"7,650,223,469,050",Small,Communication Services
+PTPP,"7,625,873,745,420",Small,Industrials
+SMSM,"7,543,864,826,400",Small,Consumer Discretionary
+INPP,"7,491,921,060,440",Small,Consumer Discretionary
+INDY,"7,424,523,600,000",Small,Energy
+TGKA,"7,393,866,637,500",Small,Consumer Staples
+TURI,"7,142,400,000,000",Small,Consumer Discretionary
+IMPC,"7,129,412,500,000",Small,Materials
+BRMS,"6,926,441,033,025",Small,Materials
+TSPC,"6,907,500,000,000",Small,Health Care
+UCID,"6,858,344,295,000",Small,Consumer Staples
+SAME,"6,723,336,150,000",Small,Health Care
+INAF,"6,694,417,800,000",Small,Health Care
+DUTI,"6,660,000,000,000",Small,Real Estate
+MPRO,"6,363,200,000,000",Small,Real Estate
+PNLF,"6,340,370,512,014",Small,Financials
+DSNG,"6,306,906,228,000",Small,Consumer Staples
+MAPA,"6,242,376,000,000",Small,Consumer Discretionary
+ESSA,"6,233,033,026,000",Small,Energy
+BBHI,"6,088,348,261,725",Small,Financials
+SOHO,"5,901,632,311,350",Small,Health Care
+EPMT,"5,823,576,000,000",Small,Health Care
+MIDI,"5,735,882,470,000",Small,Consumer Staples
+AUTO,"5,639,087,610,000",Small,Consumer Discretionary
+BBMD,"5,603,423,300,000",Small,Financials
+MCOR,"5,574,200,385,558",Small,Financials
+CLEO,"5,496,000,000,000",Small,Consumer Staples
+PSAB,"5,397,840,000,000",Small,Materials
+RALS,"5,392,960,000,000",Small,Consumer Discretionary
+WOOD,"5,360,312,500,000",Small,Consumer Discretionary
+ARNA,"5,322,537,457,600",Small,Industrials
+FILM,"5,278,725,435,000",Small,Communication Services
+WSBP,"5,193,148,034,198",Small,Materials
+MCAS,"5,185,901,467,500",Small,Information Technology
+BOGA,"5,153,778,014,550",Small,Consumer Discretionary
+MPPA,"5,044,529,106,400",Small,Consumer Staples
+SQMI,"4,972,029,257,280",Small,Energy
+EDGE,"4,889,005,000,000",Small,Information Technology
+GGRP,"4,820,327,710,486",Small,Materials
+TBLA,"4,754,468,055,710",Small,Consumer Staples
+PNBS,"4,696,450,599,599",Small,Financials
+BCAP,"4,688,073,601,970",Small,Financials
+SDRA,"4,639,553,009,070",Small,Financials
+BUMI,"4,530,759,506,427",Small,Energy
+RISE,"4,417,800,000,000",Small,Real Estate
+NATO,"4,400,601,207,200",Small,Consumer Discretionary
+BEBS,"4,392,000,000,000",Small,#N/A N/A
+BMTR,"4,378,175,362,704",Small,Communication Services
+ABDA,"4,376,687,094,000",Small,Financials
+PPRO,"4,370,993,301,780",Small,Real Estate
+BKSW,"4,332,577,428,608",Small,Financials
+AMOR,"4,300,000,344,000",Small,Financials
+IMAS,"4,273,891,411,730",Small,Consumer Discretionary
+DMMX,"4,153,846,158,000",Small,Information Technology
+FAST,"4,129,936,858,530",Small,Consumer Discretionary
+BPII,"4,104,240,032,600",Small,Financials
+ASRI,"4,047,778,848,928",Small,Real Estate
+MTDL,"4,039,095,028,465",Small,Information Technology
+TOBA,"4,008,882,072,000",Small,Energy
+LPPF,"4,004,876,889,500",Small,Consumer Discretionary
+HERO,"3,995,370,470,000",Small,Consumer Staples
+BHIT,"3,983,369,337,036",Small,Communication Services
+BULL,"3,952,190,846,772",Small,Industrials
+BSSR,"3,950,915,000,000",Small,Energy
+PRDA,"3,928,125,000,000",Small,Health Care
+TFAS,"3,866,666,280,000",Small,Information Technology
+ADHI,"3,827,913,079,200",Small,Industrials
+KINO,"3,742,857,330,000",Small,Consumer Staples
+SRIL,"3,742,748,362,452",Small,Consumer Discretionary
+KOTA,"3,691,164,995,350",Small,Real Estate
+MARK,"3,686,000,300,700",Small,Industrials
+KIJA,"3,623,530,576,206",Small,Real Estate
+BEKS,"3,595,072,204,064",Small,Financials
+BWPT,"3,593,883,174,000",Small,Consumer Staples
+AGRS,"3,569,870,238,084",Small,Financials
+BKSL,"3,488,345,176,264",Small,Real Estate
+BLTZ,"3,478,269,825,160",Small,Communication Services
+APLN,"3,472,996,997,187",Small,Real Estate
+NOBU,"3,461,571,594,000",Small,Financials
+GMFI,"3,416,254,891,500",Small,Industrials
+BISI,"3,405,000,000,000",Small,Consumer Staples
+AGII,"3,388,659,300,000",Small,Materials
+KMTR,"3,384,730,948,148",Small,Consumer Discretionary
+ZINC,"3,383,500,000,000",Small,Materials
+BACA,"3,354,967,636,356",Small,Financials
+BBYB,"3,317,574,029,022",Small,Financials
+SGRO,"3,307,500,000,000",Small,Consumer Staples
+LPCK,"3,282,510,000,000",Small,Real Estate
+BIRD,"3,252,730,000,000",Small,Industrials
+MBAP,"3,252,270,672,800",Small,Energy
+MTLA,"3,199,842,805,940",Small,Real Estate
+PBID,"3,196,875,000,000",Small,Materials
+PNIN,"3,193,634,277,200",Small,Financials
+JKON,"3,180,161,372,700",Small,Industrials
+DOID,"3,137,613,745,448",Small,Energy
+GJTL,"3,101,472,000,000",Small,Consumer Discretionary
+MAPB,"3,082,710,518,000",Small,Consumer Discretionary
+DLTA,"3,034,497,799,500",Small,Consumer Staples
+MYOH,"3,033,679,687,500",Small,Energy
+BHAT,"3,025,000,000,000",Small,#N/A N/A
+MFIN,"3,021,000,000,000",Small,Financials
+PTDU,"3,015,000,000,000",Small,#N/A N/A
+SURE,"2,995,153,542,000",Small,Energy
+CPRO,"2,978,619,139,350",Small,Consumer Staples
+HITS,"2,968,253,446,818",Small,Energy
+UNIC,"2,951,651,495,100",Small,Materials
+WMUU,"2,950,588,242,000",Small,#N/A N/A
+HEXA,"2,931,600,000,000",Small,Industrials
+NIRO,"2,908,052,206,324",Small,Real Estate
+IMJS,"2,890,544,550,000",Small,Financials
+MMLP,"2,882,510,250,955",Small,Real Estate
+MPMX,"2,856,296,496,640",Small,Consumer Discretionary
+MGRO,"2,843,556,560,000",Small,Consumer Staples
+MOLI,"2,801,866,197,600",Small,Materials
+POLI,"2,774,526,432,000",Small,Real Estate
+INPC,"2,760,225,426,364",Small,Financials
+MDIA,"2,705,872,149,600",Small,Communication Services
+AISA,"2,700,422,000,000",Small,Consumer Staples
+DVLA,"2,688,000,000,000",Small,Health Care
+BALI,"2,675,522,900,000",Small,Communication Services
+TPMA,"2,672,799,500,000",Small,Industrials
+SHID,"2,652,803,018,160",Small,Consumer Discretionary
+BUKK,"2,640,452,000,000",Small,Industrials
+TUGU,"2,631,111,144,000",Small,Financials
+WTON,"2,614,639,980,000",Small,Materials
+IRRA,"2,608,000,000,000",Small,Health Care
+NIKL,"2,599,050,500,000",Small,Materials
+CTBN,"2,593,203,660,000",Small,Energy
+AMAR,"2,523,021,400,000",Small,Financials
+META,"2,514,920,563,548",Small,Industrials
+VICI,"2,508,792,000,000",Small,#N/A N/A
+BNBA,"2,506,350,000,000",Small,Financials
+ELSA,"2,481,490,000,000",Small,Energy
+MREI,"2,433,620,900,700",Small,Financials
+MLPT,"2,428,125,000,000",Small,Information Technology
+DIVA,"2,414,285,666,000",Small,Information Technology
+MLPL,"2,342,341,195,200",Small,Consumer Discretionary
+IFSH,"2,337,500,000,000",Small,Materials
+DNAR,"2,335,683,179,232",Small,Financials
+BTEK,"2,313,874,818,800",Small,Consumer Staples
+HOKI,"2,303,305,137,840",Small,Consumer Staples
+TFCO,"2,276,492,060,800",Small,Consumer Discretionary
+INDR,"2,270,600,423,290",Small,Consumer Discretionary
+ANJT,"2,264,068,125,000",Small,Consumer Staples
+PSGO,"2,262,000,000,000",Small,#N/A N/A
+CLAY,"2,261,600,000,000",Small,Consumer Discretionary
+BABP,"2,254,666,651,329",Small,Financials
+SSIA,"2,249,109,232,320",Small,Industrials
+PZZA,"2,236,187,500,000",Small,Consumer Discretionary
+BIPI,"2,234,653,309,650",Small,Energy
+SCCO,"2,220,300,720,000",Small,Industrials
+SRAJ,"2,220,130,507,325",Small,Health Care
+PALM,"2,207,057,510,360",Small,Consumer Staples
+ELTY,"2,176,095,650,950",Small,Real Estate
+TOTO,"2,167,200,000,000",Small,Industrials
+ABMM,"2,147,468,700,000",Small,Energy
+JTPE,"2,115,570,437,500",Small,Industrials
+PPRE,"2,065,302,742,000",Small,Industrials
+BRAM,"2,047,500,000,000",Small,Consumer Discretionary
+RDTX,"2,042,880,000,000",Small,Real Estate
+KEJU,"2,040,000,000,000",Small,Consumer Staples
+PTRO,"2,037,382,100,000",Small,Materials
+MAIN,"2,037,262,500,000",Small,Consumer Staples
+WIIM,"2,026,378,178,400",Small,Consumer Staples
+SAMF,"2,019,250,000,000",Small,Materials
+WEGE,"1,952,688,000,000",Small,Industrials
+DILD,"1,928,048,878,410",Small,Real Estate
+JSPT,"1,924,550,880,000",Small,Consumer Discretionary
+SIPD,"1,881,439,123,495",Small,Consumer Staples
+TAMU,"1,875,000,000,000",Small,Energy
+BPFI,"1,871,796,753,750",Small,Financials
+ACST,"1,811,895,120,000",Small,Industrials
+CSAP,"1,810,091,285,520",Small,Consumer Discretionary
+HOMI,"1,803,375,000,000",Small,Real Estate
+SHIP,"1,795,061,400,000",Small,Energy
+PMJS,"1,774,472,400,000",Small,Consumer Discretionary
+UFOE,"1,772,812,500,000",Small,Consumer Discretionary
+FISH,"1,766,400,000,000",Small,Consumer Staples
+SONA,"1,763,640,000,000",Small,Consumer Discretionary
+SFAN,"1,761,114,557,195",Small,Financials
+MSIN,"1,739,548,800,000",Small,Communication Services
+GMTD,"1,698,223,050,000",Small,Real Estate
+KREN,"1,693,387,719,300",Small,Financials
+BOLT,"1,687,500,000,000",Small,Industrials
+TOPS,"1,666,500,000,000",Small,Industrials
+OMRE,"1,666,475,000,000",Small,Real Estate
+NFCX,"1,653,335,400,000",Small,Consumer Discretionary
+MARI,"1,649,330,216,000",Small,Communication Services
+CSMI,"1,632,123,000,000",Small,#N/A N/A
+ATIC,"1,609,176,141,725",Small,Information Technology
+AMFG,"1,605,800,000,000",Small,Industrials
+DWGL,"1,602,934,428,704",Small,Energy
+MTFN,"1,592,104,142,600",Small,Energy
+IPCM,"1,585,443,330,000",Small,Industrials
+BVIC,"1,548,686,837,574",Small,Financials
+BOLA,"1,548,000,000,000",Small,Communication Services
+WIFI,"1,518,720,060,000",Small,#N/A N/A
+ISSP,"1,509,058,327,350",Small,Materials
+KBLI,"1,506,720,400,232",Small,Industrials
+BEST,"1,476,038,605,950",Small,Real Estate
+SOCI,"1,468,272,000,000",Small,Energy
+MERK,"1,464,960,000,000",Small,Health Care
+SKLT,"1,450,555,050,000",Small,Consumer Staples
+KKGI,"1,440,000,000,000",Small,Energy
+ECII,"1,401,049,650,000",Small,Consumer Discretionary
+TIFA,"1,387,414,500,000",Small,Financials
+PORT,"1,378,831,572,650",Small,Industrials
+BRNA,"1,370,754,000,000",Small,Materials
+CAMP,"1,365,320,000,000",Small,Consumer Staples
+FMII,"1,360,500,000,000",Small,Real Estate
+MSKY,"1,336,228,221,600",Small,Communication Services
+AMAG,"1,320,409,864,224",Small,Financials
+BGTG,"1,318,657,080,000",Small,Financials
+SPTO,"1,301,400,000,000",Small,Industrials
+BLTA,"1,297,009,355,150",Small,Industrials
+IFII,"1,289,444,000,000",Small,Materials
+KEEN,"1,283,209,375,000",Small,Utilities
+TCID,"1,276,773,335,450",Small,Consumer Staples
+PSSI,"1,235,090,398,884",Small,Industrials
+URBN,"1,228,206,583,820",Small,Real Estate
+TRST,"1,213,056,000,000",Small,Materials
+INDS,"1,210,780,714,950",Small,Consumer Discretionary
+INPS,"1,202,500,000,000",Small,Industrials
+FPNI,"1,202,345,424,000",Small,Materials
+SKRN,"1,200,000,000,000",Small,Industrials
+VICO,"1,198,662,403,080",Small,Financials
+TDPM,"1,195,295,757,000",Small,Materials
+APEX,"1,191,612,800,000",Small,Energy
+CFIN,"1,171,449,014,358",Small,Financials
+DEFI,"1,147,735,332,220",Small,Financials
+TOTL,"1,145,760,000,000",Small,Industrials
+VIVA,"1,136,034,657,600",Small,Communication Services
+PTSP,"1,131,641,000,000",Small,Consumer Discretionary
+AMAN,"1,123,315,000,000",Small,Real Estate
+GWSA,"1,115,508,680,000",Small,Real Estate
+PTPW,"1,115,298,125,000",Small,Industrials
+CITY,"1,113,370,456,730",Small,Real Estate
+INRU,"1,111,106,626,400",Small,Materials
+ENRG,"1,106,613,182,104",Small,Energy
+CEKA,"1,097,775,000,000",Small,Consumer Staples
+PTSN,"1,094,754,864,000",Small,Information Technology
+DEWA,"1,092,686,689,600",Small,Materials
+ASGR,"1,092,512,205,000",Small,Industrials
+GHON,"1,083,500,000,000",Small,Communication Services
+PNGO,"1,078,125,000,000",Small,#N/A N/A
+RODA,"1,060,186,000,302",Small,Real Estate
+BNBR,"1,058,043,263,050",Small,Industrials
+PGUN,"1,049,655,600,000",Small,Consumer Staples
+IPCC,"1,045,571,271,500",Small,Industrials
+ZBRA,"1,044,482,270,980",Small,Industrials
+JIHD,"1,029,435,893,044",Small,Consumer Discretionary
+IPOL,"1,018,053,962,422",Small,Materials
+RAJA,"1,006,045,635,000",Small,Energy
+ADES,"1,005,774,044,000",Small,Consumer Staples
+BELL,"1,000,500,000,000",Small,Consumer Discretionary
+PEHA,"999,600,000,000",Micro,Health Care
+JECC,"982,800,000,000",Micro,Industrials
+PBRX,"978,222,637,261",Micro,Consumer Discretionary
+DKFT,"964,140,168,600",Micro,Materials
+GSMF,"961,659,310,473",Micro,Financials
+ZYRX,"953,333,309,500",Micro,#N/A N/A
+SMDR,"949,784,800,000",Micro,Industrials
+HRTA,"939,473,529,600",Micro,Consumer Discretionary
+INDO,"939,414,713,490",Micro,#N/A N/A
+GDST,"933,492,500,000",Micro,Materials
+BESS,"912,710,221,272",Micro,#N/A N/A
+SPMA,"900,807,228,108",Micro,Materials
+BATA,"897,000,000,000",Micro,Consumer Discretionary
+KIAS,"895,746,000,000",Micro,Industrials
+PJAA,"887,999,997,780",Micro,Consumer Discretionary
+TMAS,"884,298,250,000",Micro,Industrials
+EKAD,"876,962,625,000",Micro,Industrials
+ROCK,"868,286,985,500",Micro,Real Estate
+TRIM,"867,334,600,000",Micro,Financials
+SKBM,"863,001,608,500",Micro,Consumer Staples
+CASS,"859,823,400,000",Micro,Industrials
+WOMF,"856,444,444,080",Micro,Financials
+VOKS,"847,742,929,380",Micro,Industrials
+NRCA,"843,735,320,272",Micro,Industrials
+PANS,"842,400,000,000",Micro,Financials
+FIRE,"840,957,012,030",Micro,Energy
+MLIA,"840,105,000,000",Micro,Industrials
+BBLD,"806,440,066,460",Micro,Financials
+PMMP,"804,726,000,000",Micro,Consumer Staples
+ABBA,"804,496,500,000",Micro,Communication Services
+DGNS,"793,750,000,000",Micro,#N/A N/A
+LTLS,"780,000,000,000",Micro,Materials
+MYTX,"774,728,194,900",Micro,Consumer Discretionary
+TRIN,"760,965,358,272",Micro,#N/A N/A
+DIGI,"757,250,000,000",Micro,Communication Services
+YULE,"756,840,000,000",Micro,Financials
+OPMS,"755,000,000,000",Micro,Industrials
+CARS,"750,000,000,000",Micro,Consumer Discretionary
+PBSA,"750,000,000,000",Micro,Industrials
+RANC,"741,567,075,000",Micro,Consumer Staples
+MBSS,"717,510,921,990",Micro,Industrials
+ALDO,"715,000,000,000",Micro,Materials
+ALTO,"710,166,060,792",Micro,Consumer Staples
+SAPX,"708,333,305,000",Micro,Industrials
+VRNA,"682,482,479,640",Micro,Financials
+SMKL,"666,400,008,820",Micro,Materials
+IKAI,"665,289,969,350",Micro,Industrials
+MAMI,"659,955,818,550",Micro,Consumer Discretionary
+MAMI,"659,955,818,550",Micro,Consumer Discretionary
+KBLV,"658,539,468,846",Micro,Communication Services
+SCNP,"650,000,000,000",Micro,Consumer Discretionary
+ARGO,"647,625,878,500",Micro,Consumer Discretionary
+EMDE,"646,550,000,000",Micro,Real Estate
+DART,"640,843,756,248",Micro,Real Estate
+HDFA,"640,182,142,215",Micro,Financials
+ADMG,"637,825,447,676",Micro,Materials
+CSRA,"619,100,000,000",Micro,Consumer Staples
+GDYR,"615,000,000,000",Micro,Consumer Discretionary
+ITMA,"612,000,000,000",Micro,Industrials
+UANG,"605,000,000,000",Micro,Consumer Discretionary
+DAYA,"595,454,568,150",Micro,Consumer Discretionary
+PRIM,"593,850,723,375",Micro,Health Care
+PURA,"582,674,447,031",Micro,#N/A N/A
+AKSI,"576,000,000,000",Micro,#N/A N/A
+INTA,"575,156,823,784",Micro,Industrials
+PADI,"565,362,326,200",Micro,Financials
+MINA,"564,375,000,000",Micro,Real Estate
+ASRM,"561,754,845,000",Micro,Financials
+WICO,"560,876,331,834",Micro,Consumer Staples
+RELI,"558,000,000,000",Micro,Financials
+GEMA,"550,400,000,000",Micro,Consumer Discretionary
+PSKT,"545,104,410,800",Micro,Consumer Discretionary
+SSTM,"538,618,223,260",Micro,Consumer Discretionary
+IATA,"534,883,255,700",Micro,Industrials
+SMDM,"534,479,482,544",Micro,Real Estate
+LPGI,"525,000,000,000",Micro,Financials
+PYFA,"524,378,400,000",Micro,Health Care
+MDKI,"521,210,900,412",Micro,Materials
+MFMI,"518,942,985,000",Micro,Industrials
+BUVA,"517,656,459,200",Micro,Consumer Discretionary
+TAXI,"511,182,357,800",Micro,Industrials
+ARII,"510,000,000,000",Micro,Energy
+TARA,"503,482,287,500",Micro,Industrials
+GAMA,"500,551,382,800",Micro,Real Estate
+STAR,"494,400,062,006",Micro,Consumer Discretionary
+BUDI,"490,390,712,458",Micro,Consumer Staples
+GLVA,"483,000,000,000",Micro,Information Technology
+ITIC,"479,767,200,000",Micro,Consumer Staples
+IDPR,"468,702,000,000",Micro,Industrials
+ANDI,"467,500,000,000",Micro,Consumer Staples
+TALF,"462,874,770,000",Micro,Materials
+SGER,"453,551,814,160",Micro,Industrials
+MAGP,"450,000,000,200",Micro,Consumer Staples
+DYAN,"440,115,320,737",Micro,Communication Services
+POLA,"432,095,342,700",Micro,Financials
+BAJA,"424,800,000,000",Micro,Materials
+TEBE,"421,480,000,000",Micro,Industrials
+PNSE,"418,852,085,400",Micro,Consumer Discretionary
+SOTS,"408,000,002,040",Micro,Consumer Discretionary
+TGRA,"404,250,000,000",Micro,Utilities
+HELI,"401,439,670,534",Micro,Industrials
+AGAR,"400,000,000,000",Micro,Consumer Staples
+KJEN,"397,500,000,000",Micro,Industrials
+WINS,"394,600,082,520",Micro,Energy
+NZIA,"393,359,786,195",Micro,Real Estate
+ARTI,"392,000,000,000",Micro,Energy
+SRSN,"391,300,000,000",Micro,Materials
+BKDP,"390,727,597,104",Micro,Real Estate
+KOPI,"386,983,000,740",Micro,Energy
+ZONE,"384,615,793,276",Micro,Consumer Discretionary
+MDRN,"381,608,389,900",Micro,Information Technology
+UNIQ,"376,677,960,000",Micro,#N/A N/A
+KMDS,"376,000,000,000",Micro,Consumer Staples
+TBMS,"372,850,100,000",Micro,Industrials
+BAYU,"370,881,819,000",Micro,Consumer Discretionary
+GOLD,"370,410,040,000",Micro,Communication Services
+PURI,"370,000,000,000",Micro,#N/A N/A
+DADA,"358,850,019,100",Micro,Real Estate
+KBAG,"357,500,055,300",Micro,#N/A N/A
+DGIK,"354,634,560,000",Micro,Industrials
+HRME,"351,566,250,000",Micro,Consumer Discretionary
+PEGE,"351,343,714,944",Micro,Financials
+JAWA,"351,045,751,500",Micro,Consumer Staples
+IGAR,"349,993,620,000",Micro,Materials
+KIOS,"348,578,591,400",Micro,Information Technology
+NELY,"345,450,000,000",Micro,Industrials
+INOV,"339,945,717,200",Micro,Consumer Discretionary
+EAST,"334,235,653,695",Micro,Consumer Discretionary
+REAL,"331,680,507,550",Micro,Real Estate
+KDSI,"328,050,000,000",Micro,Materials
+YPAS,"327,320,043,610",Micro,Materials
+TRIS,"326,710,155,824",Micro,Consumer Discretionary
+AKKU,"322,474,199,982",Micro,Real Estate
+DFAM,"319,164,510,000",Micro,Real Estate
+DUCK,"318,265,840,000",Micro,Consumer Discretionary
+SMMT,"315,000,000,000",Micro,Energy
+AKPI,"312,800,000,000",Micro,Materials
+GPRA,"312,195,839,528",Micro,Real Estate
+GLOB,"304,444,688,000",Micro,Consumer Discretionary
+BIPP,"301,720,162,560",Micro,Real Estate
+GZCO,"300,000,000,000",Micro,Consumer Staples
+IKBI,"296,208,000,000",Micro,Industrials
+SWAT,"295,881,600,000",Micro,Materials
+TOYS,"295,610,000,000",Micro,Consumer Discretionary
+UNSP,"292,518,994,248",Micro,Consumer Staples
+POLU,"292,500,000,000",Micro,Consumer Discretionary
+KOBX,"290,880,000,000",Micro,Industrials
+BLUE,"286,330,000,000",Micro,Industrials
+MTPS,"285,624,563,573",Micro,Industrials
+BBSS,"283,200,945,180",Micro,#N/A N/A
+HKMU,"280,292,250,000",Micro,Industrials
+PCAR,"280,000,008,000",Micro,Consumer Staples
+BAPI,"279,587,009,300",Micro,Real Estate
+MKNT,"275,000,000,000",Micro,Information Technology
+IBFN,"274,635,146,069",Micro,Financials
+APLI,"272,534,280,000",Micro,Materials
+PAMG,"271,875,000,000",Micro,Real Estate
+BBRM,"268,353,812,400",Micro,Industrials
+LAND,"268,091,520,000",Micro,Real Estate
+LCKM,"264,000,000,000",Micro,Industrials
+CBMF,"262,500,000,000",Micro,#N/A N/A
+CCSI,"258,000,000,000",Micro,Information Technology
+PSDN,"257,760,000,000",Micro,Consumer Staples
+SOSS,"255,138,325,940",Micro,Industrials
+TRUS,"254,400,000,000",Micro,Financials
+CLPI,"254,260,955,000",Micro,Materials
+JSKY,"254,067,500,000",Micro,Information Technology
+HDIT,"250,047,520,000",Micro,Information Technology
+TRJA,"247,672,800,000",Micro,#N/A N/A
+ERTX,"245,729,100,272",Micro,Consumer Discretionary
+KBLM,"241,920,000,000",Micro,Industrials
+LPPS,"240,707,250,000",Micro,Financials
+CINT,"230,000,000,000",Micro,Consumer Discretionary
+BEEF,"229,886,136,590",Micro,Consumer Staples
+AHAP,"226,380,000,000",Micro,Financials
+MTWI,"222,769,590,936",Micro,Financials
+PDES,"217,360,000,000",Micro,Consumer Discretionary
+BTON,"216,000,000,000",Micro,Materials
+AMIN,"211,680,000,000",Micro,Industrials
+SNLK,"209,700,000,000",Micro,#N/A N/A
+DPUM,"208,750,000,000",Micro,Consumer Staples
+INCI,"207,888,511,220",Micro,Materials
+INAI,"207,820,800,000",Micro,Materials
+ESTI,"207,566,498,160",Micro,Consumer Discretionary
+FUJI,"204,100,000,000",Micro,Financials
+LEAD,"202,480,816,400",Micro,Energy
+SULI,"199,345,840,100",Micro,Materials
+MIRA,"198,072,601,950",Micro,Industrials
+RUIS,"197,120,000,000",Micro,Energy
+APII,"190,409,520,000",Micro,Industrials
+LION,"190,378,560,000",Micro,Industrials
+EPAC,"184,990,400,000",Micro,Materials
+NICK,"184,926,600,000",Micro,Real Estate
+RONY,"183,750,000,000",Micro,#N/A N/A
+HOTL,"177,500,072,600",Micro,Real Estate
+TNCA,"177,088,800,000",Micro,Industrials
+ASDM,"175,680,000,000",Micro,Financials
+MICE,"175,200,000,000",Micro,Consumer Discretionary
+BPTR,"175,150,000,000",Micro,Industrials
+PANR,"171,600,000,000",Micro,Consumer Discretionary
+POLY,"169,711,226,712",Micro,Consumer Discretionary
+PURE,"169,147,325,115",Micro,Materials
+RBMS,"167,341,408,038",Micro,Real Estate
+OKAS,"165,997,211,038",Micro,Industrials
+SDPC,"164,346,000,000",Micro,Health Care
+TIRA,"163,464,000,000",Micro,Industrials
+VINS,"160,663,097,760",Micro,Financials
+PTIS,"158,447,606,400",Micro,Industrials
+JMAS,"154,000,000,000",Micro,Financials
+DSFI,"150,427,975,500",Micro,Consumer Staples
+SINI,"149,674,954,100",Micro,Materials
+BOSS,"148,400,000,000",Micro,Energy
+ASJT,"146,400,000,000",Micro,Financials
+LPLI,"146,304,100,375",Micro,Communication Services
+KOIN,"146,145,716,068",Micro,Industrials
+TMPO,"143,933,322,000",Micro,Communication Services
+WOWS,"143,591,760,000",Micro,#N/A N/A
+COCO,"142,312,535,034",Micro,Consumer Staples
+JAST,"141,571,045,800",Micro,Communication Services
+ALMI,"137,984,000,000",Micro,Materials
+CANI,"136,684,160,000",Micro,Industrials
+ATAP,"135,000,000,000",Micro,#N/A N/A
+LMPI,"134,132,849,977",Micro,Consumer Discretionary
+INCF,"133,768,453,245",Micro,Materials
+KONI,"132,300,000,000",Micro,Consumer Discretionary
+RIGS,"130,353,820,000",Micro,Industrials
+BMSR,"129,830,402,688",Micro,Industrials
+ALKA,"124,885,603,530",Micro,Materials
+CSIS,"122,858,000,000",Micro,Industrials
+CPRI,"121,668,750,250",Micro,Real Estate
+SAFE,"119,338,132,328",Micro,Industrials
+MBTO,"118,770,000,000",Micro,Consumer Staples
+SBAT,"118,189,747,775",Micro,#N/A N/A
+DEAL,"117,805,818,936",Micro,Industrials
+MPOW,"116,013,581,526",Micro,Utilities
+ARTA,"112,561,892,100",Micro,Consumer Discretionary
+OASA,"109,731,600,000",Micro,Industrials
+LPIN,"108,800,000,000",Micro,Consumer Discretionary
+ENZO,"108,127,150,100",Micro,#N/A N/A
+IKAN,"107,499,957,000",Micro,Consumer Staples
+HADE,"106,000,000,000",Micro,Financials
+ARKA,"100,000,000,000",Micro,Industrials
+CAKK,"99,873,918,177",Micro,Industrials
+LUCK,"99,489,199,960",Micro,Information Technology
+FORZ,"99,200,494,350",Micro,Real Estate
+BCIP,"98,664,171,225",Micro,Real Estate
+PRAS,"98,146,086,920",Micro,Consumer Discretionary
+ASBI,"97,548,212,160",Micro,Financials
+PGLI,"96,624,000,000",Micro,Consumer Discretionary
+WAPO,"94,310,156,436",Micro,Consumer Staples
+DPNS,"93,378,646,464",Micro,Materials
+PUDP,"92,276,800,000",Micro,Real Estate
+SATU,"90,750,000,000",Micro,Real Estate
+CTTH,"88,620,467,112",Micro,Materials
+MRAT,"87,312,000,000",Micro,Consumer Staples
+FORU,"85,135,992,000",Micro,Communication Services
+BIKA,"84,103,760,000",Micro,Real Estate
+ICON,"81,731,250,000",Micro,Real Estate
+WEHA,"79,777,013,850",Micro,Industrials
+PICO,"76,730,625,000",Micro,Materials
+AYLS,"72,540,975,060",Micro,Industrials
+ESTA,"72,450,000,000",Micro,#N/A N/A
+LRNA,"66,150,004,158",Micro,Industrials
+FITT,"66,000,000,550",Micro,Consumer Discretionary
+FOOD,"64,350,000,000",Micro,Consumer Staples
+KICI,"62,928,000,000",Micro,Consumer Discretionary
+AIMS,"62,920,000,000",Micro,Industrials
+TAMA,"60,000,000,300",Micro,Industrials
+KPAS,"59,907,344,796",Micro,Consumer Staples
+TRUK,"59,160,000,000",Micro,Industrials
+KAYU,"58,520,000,000",Micro,Materials
+KARW,"57,540,964,600",Micro,Industrials
+SDMU,"56,761,250,000",Micro,Industrials
+INTD,"56,223,660,000",Micro,Consumer Discretionary
+RICY,"55,829,423,370",Micro,Consumer Discretionary
+KPAL,"53,450,470,000",Micro,Industrials
+PANI,"52,480,000,000",Micro,Materials
+PKPK,"52,200,000,000",Micro,Energy
+TIRT,"50,588,737,500",Micro,Materials
+INDX,"50,360,062,620",Micro,Industrials
+ESIP,"48,000,030,375",Micro,Materials
+JAYA,"46,125,012,915",Micro,Industrials
+BIMA,"43,180,475,836",Micro,Consumer Discretionary
+YELO,"40,664,664,879",Micro,Consumer Discretionary
+CNTB,"40,400,000,000",Micro,Consumer Discretionary
+CNTX,"40,400,000,000",Micro,Consumer Discretionary
+LMAS,"39,392,576,250",Micro,Information Technology
+ASPI,"38,862,189,885",Micro,Real Estate
+MTSM,"38,652,768,000",Micro,Real Estate
+LMSH,"36,288,000,000",Micro,Materials
+BAPA,"33,089,226,000",Micro,Real Estate
